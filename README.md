@@ -9,7 +9,7 @@ list of tools used:
 
 ## Prerequisites
 
-Install Docker
+Make sure you have Docker running on your machine
 
 ## Setup
 
