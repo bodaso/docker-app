@@ -21,3 +21,5 @@ Run `docker-compose build`.
 
 Run `docker-compose up` to create and start both `web` and `db` container. 
 
+Check browser: http://localhost:3030/ 
+
