@@ -11,15 +11,17 @@ list of tools used:
 
 Make sure you have Docker running on your machine
 
-## Setup
-
-For first time and whenever the Docker image needs to be rebuild.
+## Start
 
 Run `docker-compose build`. 
 
-## Start
+Only for first time and whenever the Docker images needs to be rebuild.
 
-Run `docker-compose up` to create and start both `web` and `db` container. 
+Most time you just run this next command.
+
+Run `docker-compose up` 
+
+This will create and start both `web` and `db` container. 
 
 Check browser: http://localhost:3030/ 
 
