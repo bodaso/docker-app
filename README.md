@@ -2,9 +2,9 @@
 list of tools used:
 
 1. Docker
-2. Node
-3. Express
-4. MySQL
+2. Node.js engine
+3. Express web framework
+4. MySQL database
 5. Nodemon
 
 ## Prerequisites
