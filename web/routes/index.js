@@ -24,7 +24,7 @@ router.get('/', function(req, res) {
     connection.query('SELECT count(*) AS total_users FROM directory', function(err, rows) {
       if (err) throw err;
       res.render('index', { title: 'index page', counter: rows[0].total_users });
-      //connection.end();
+      connection.end();
     });
 
   });
