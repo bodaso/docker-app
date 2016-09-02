@@ -45,3 +45,8 @@ $ docker rm $(docker ps -a -q)
 # Delete all images
 $ docker rmi $(docker images -q)
 ~~~~
+
+# Potential Issues
+---
+##### Port 3306 occupied
+Make sure you've stopped your local machine's MySQL server before you docker-compose up 
