@@ -1,11 +1,12 @@
 # An Docker web app
-list of tools used:
+list of tools included:
 
 1. Docker
 2. Node.js engine
 3. Express web framework
 4. MySQL database
 5. Nodemon
+6. Mocha for testing
 
 ## Prerequisites
 
